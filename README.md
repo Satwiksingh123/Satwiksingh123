@@ -43,8 +43,3 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Satwik's GitHub stats](https://github-readme-stats.vercel.app/api?username=Satwiksingh123&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Satwiksingh123&layout=compact&theme=tokyonight)
